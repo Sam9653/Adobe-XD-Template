@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Adobe-XD-Template/static/css/main.19ff45bd.chunk.css",
+    "main.js": "/Adobe-XD-Template/static/js/main.c8cd4d10.chunk.js",
+    "main.js.map": "/Adobe-XD-Template/static/js/main.c8cd4d10.chunk.js.map",
+    "runtime-main.js": "/Adobe-XD-Template/static/js/runtime-main.6e1372aa.js",
+    "runtime-main.js.map": "/Adobe-XD-Template/static/js/runtime-main.6e1372aa.js.map",
+    "static/js/2.3167b712.chunk.js": "/Adobe-XD-Template/static/js/2.3167b712.chunk.js",
+    "static/js/2.3167b712.chunk.js.map": "/Adobe-XD-Template/static/js/2.3167b712.chunk.js.map",
+    "static/js/3.36d040a5.chunk.js": "/Adobe-XD-Template/static/js/3.36d040a5.chunk.js",
+    "static/js/3.36d040a5.chunk.js.map": "/Adobe-XD-Template/static/js/3.36d040a5.chunk.js.map",
+    "index.html": "/Adobe-XD-Template/index.html",
+    "static/css/main.19ff45bd.chunk.css.map": "/Adobe-XD-Template/static/css/main.19ff45bd.chunk.css.map",
+    "static/js/2.3167b712.chunk.js.LICENSE.txt": "/Adobe-XD-Template/static/js/2.3167b712.chunk.js.LICENSE.txt",
+    "static/media/Capture.35a4828d.PNG": "/Adobe-XD-Template/static/media/Capture.35a4828d.PNG",
+    "static/media/hdrimg.2da52488.jpg": "/Adobe-XD-Template/static/media/hdrimg.2da52488.jpg",
+    "static/media/img1.705fd352.jpg": "/Adobe-XD-Template/static/media/img1.705fd352.jpg",
+    "static/media/img2.d68126c5.jpg": "/Adobe-XD-Template/static/media/img2.d68126c5.jpg",
+    "static/media/img3.939bd091.jpg": "/Adobe-XD-Template/static/media/img3.939bd091.jpg",
+    "static/media/insta.287a0f3e.jpg": "/Adobe-XD-Template/static/media/insta.287a0f3e.jpg",
+    "static/media/insta_img1.360b3a95.jpg": "/Adobe-XD-Template/static/media/insta_img1.360b3a95.jpg",
+    "static/media/insta_img2.038d4d66.jpg": "/Adobe-XD-Template/static/media/insta_img2.038d4d66.jpg",
+    "static/media/insta_img3.1a29b089.jpg": "/Adobe-XD-Template/static/media/insta_img3.1a29b089.jpg",
+    "static/media/insta_img4.b8663c63.jpg": "/Adobe-XD-Template/static/media/insta_img4.b8663c63.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e1372aa.js",
+    "static/js/2.3167b712.chunk.js",
+    "static/css/main.19ff45bd.chunk.css",
+    "static/js/main.c8cd4d10.chunk.js"
+  ]
+}
