@@ -1,0 +1,42 @@
+.main{
+    height: 75px;
+    width: 100%;
+    background-color: whitesmoke;
+    display:flex;
+    flex-direction: row;
+}
+#navbar_brand{
+    padding-top: 25px;
+    padding-left: 100px;
+    margin-right: 30px;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: proxima nova;
+}
+.list{
+    display:flex;
+    flex-direction: row; 
+}
+.link{
+    font-weight: 600;
+    font-size: 12px;
+    text-decoration: none;
+    padding-top: 30px;
+    margin-right: 30px;
+    color: black;
+}
+.linkk{
+    font-weight: 600;
+    font-size: 12px;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-right: 200px;
+    margin-right: 260px;
+    color: black;
+}
+.link:hover{
+    color:blue
+}
+.link:focus{
+    color:green;
+}

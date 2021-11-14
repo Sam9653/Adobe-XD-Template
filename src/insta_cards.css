@@ -1,0 +1,35 @@
+.insta_cards{
+    margin-top: 100px;
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+#insta_img1{
+    height: 550px;
+    width: 40%;
+}
+#insta_img2{
+    height: 235px;
+    width: 23%;
+    margin-top: -300px;
+    margin-left: 70px;
+}
+#insta_img3{
+    height: 235px;
+    width: 23%;
+    margin-top: -300px;
+    margin-left: 70px;
+}
+#insta_img4{
+    height: 235px;
+    width: 23%;
+    margin-top: -260px;
+    margin-left: 519px;
+}#img1{
+    height: 235px;
+    width: 23%;
+    margin-top: -300px;
+    margin-left: 849px;
+}
